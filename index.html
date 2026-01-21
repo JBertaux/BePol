@@ -35,7 +35,9 @@
 
     <script>
         $(document).ready(function () {
+            DataTable.datetime('DD/MM/YYYY');
             $('#myTable').DataTable({
+                order: [[0, 'desc']],
                 language: {
                     url: 'https://cdn.datatables.net/plug-ins/2.3.4/i18n/fr-FR.json',
                 },
