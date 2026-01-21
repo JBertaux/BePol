@@ -21,5 +21,16 @@
         "partis": [
             "ps"
         ]
+    },
+    {
+        "date": "2026-01-19",
+        "title": "Le ministre bruxellois De Smet a nommée sa femme directrice-adjointe du logement régional",
+        "urls": [
+            "https://www.bruxellestoday.be/politique/femme-ministre-bruxellois-nommee-logement-regional.html"
+        ],
+        "summary": "La N-VA accuse le gouvernement bruxellois en affaires courantes d’avoir profité de la période de transition pour nommer des proches à des postes clés. Au cœur de la polémique : la nomination de Dorien Robben, épouse du ministre Dirk De Smet (Open-VLD), comme directrice-adjointe à la Société du Logement de la Région de Bruxelles-Capitale (SLRB). L’opposition dénonce un conflit d’intérêts et une politique du logement jugée désastreuse, évoquant aussi des évaluations négatives de Robben. Trois autres nominations controversées sont pointées, dont celle d’un membre du cabinet de Rudi Vervoort. La N-VA y voit une manœuvre pour conserver une influence politique avant l’arrivée d’un nouveau gouvernement.",
+        "partis": [
+            "open-vld"
+        ]
     }
 ]
