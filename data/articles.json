@@ -32,5 +32,17 @@
         "partis": [
             "open-vld"
         ]
+    },
+    {
+        "date": "2026-01-26",
+        "title": "Bruxelles : les montants des teambuildings organisés par les cabinets en affaires courantes interpellent",
+        "urls": [
+            "https://www.lesoir.be/724704/article/2026-01-26/bruxelles-les-montants-des-teambuildings-organises-par-les-cabinets-en-affaires",
+            "https://www.lalibre.be/belgique/politique-belge/2026/01/26/des-centaines-de-milliers-deuros-dans-des-teambuildings-a-bruxelles-malgre-le-gouvernement-en-affaires-courantes-ca-pose-une-question-de-bon-sens-MVCMRIDKTJBMLK6YFFU2OLPDOQ/"
+        ],
+        "summary": "Malgré le contexte d’affaires courantes à Bruxelles, où les dépenses doivent être limitées, les cabinets ministériels et administrations ont dépensé des centaines de milliers d’euros en teambuildings, fêtes et activités de cohésion. Par exemple, le SPRB a organisé une réception du Nouvel An (54 266 €) et un « Summer Day » (74 099 €). Le cabinet d’Ans Persoons a dépensé 96 338 €, dont 48 638 € pour un événement à La Tricoterie. Bruxelles Environnement a utilisé plus de 91 000 € pour des activités culturelles et écologiques. Ces dépenses, jugées excessives, suscitent des interrogations politiques.",
+        "partis": [
+            "ps", "défi", "ecolo", "groen"
+        ]
     }
 ]
